@@ -1,0 +1,66 @@
+body{
+    background-color: #ffdd99;
+
+}
+.elctitle{
+    background-color: #ffb31a;
+    width: 100%;
+    height: fit-content;
+    position: fixed;
+    left: 0%;
+    top: 0%;
+    text-align: center;
+    
+}
+.title1{
+    width: 50%;
+    float: left;
+    margin-top: 10px;
+
+}
+.logoimage1{
+    float: left;
+    width: 25%;
+    margin-top: 5px;
+}
+.logoimage2{
+    width: 25%;
+    float: right;
+    margin-top: 5px;
+}
+.footer{
+    bottom: 0%;
+    position: fixed;
+    background-color: #ffeecc;
+    width: 100%;
+    height: auto;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.content{
+    margin-top: 10%;
+    height: auto;
+}
+.leftdiv{
+    float: left;
+    width: 42%;
+    height: 100%;
+    margin-left: 5%;
+    margin-top: 3%;
+    align-items: center;
+    
+    font-family: cursive;
+}
+.rightdiv{
+    text-align: justify;
+    align-items: center;
+    position: relative;
+    float: right;
+    width:48%;
+    height: 100%;
+    margin-top: 40px;
+    font-family: cursive;
+    margin-right: 40px;
+    
+
+}
